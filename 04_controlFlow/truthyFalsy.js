@@ -28,6 +28,7 @@ val2 = undefined ?? 15
 console.log(val2)
 
 //Terniary operator (work as true and false)
+//condtion ? true : false
 
 const iceTeaPrice = 60
 iceTeaPrice >= 80 ? console.log("price greater than 80") : console.log("less than 80");
