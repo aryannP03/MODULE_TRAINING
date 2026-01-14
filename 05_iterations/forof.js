@@ -19,7 +19,8 @@ for(greet of greetings){
 
 const map = new Map()
 map.set('IN', "India")
-map.set('USA', ")
-map.set('IN', "India")
-map.set('IN', "India")
-map.set('IN', "India")
+map.set('USA', "United States of America")
+// map.set('IN', "India")
+// map.set('IN', "India")
+// map.set('IN', "India")
+
